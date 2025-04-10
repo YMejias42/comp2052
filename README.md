@@ -1,5 +1,5 @@
 # COMP 2052 - Server-Side Web Development and Back-End Microservices
-
+Update
 ## Course Overview
 
 This course focuses on the key concepts of server-side development for web applications and microservices. Students learn to work with software architectures for the web, apply essential technologies for server and microservice development, and evaluate important characteristics such as scalability and security. The course also emphasizes the importance of continuous professional development and understanding the ethical-legal and security challenges in software development.
