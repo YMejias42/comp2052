@@ -1,0 +1,26 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "correo": "juan.perez@example.com"
+      }
+    ],
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Laptop Lenovo",
+        "descripcion": "Portátil con 16GB RAM y 512GB SSD",
+        "precio": 899.99,
+        "stock": 10
+      },
+      {
+        "id": 2,
+        "nombre": "Mouse inalámbrico",
+        "descripcion": "Mouse óptico Bluetooth",
+        "precio": 19.99,
+        "stock": 50
+      }
+    ]
+  }
+  
